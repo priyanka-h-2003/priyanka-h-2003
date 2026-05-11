@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Priyanka</h1>
+<h3 align="center">Frontend Developer | Passionate About Web Development</h3>
 
-<!--
-**priyanka-h-2003/priyanka-h-2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+I enjoy building responsive and user-friendly web applications using modern frontend technologies.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- 🌱 Currently learning **React.js** and modern frontend development
+- 💻 Interested in building real-world web applications
+- 🚀 Working on personal projects to improve my development skills
+- 🎯 Goal: To become a skilled Frontend Developer
+
+---
+
+## 🛠 Skills
+
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Git & GitHub
+- Responsive Web Design
+
+---
+
+## 📂 Featured Projects
+
+### 1. TaskFlow - ToDo Application
+A task management application with add, delete, complete, and clear features.
+
+### 2. Weather Application
+A weather app that fetches live weather data using API integration.
+
+### 3. Portfolio Website
+My personal portfolio showcasing my skills and projects.
+
+---
+
+## 🌐 Connect With Me
+
+LinkedIn: (Add your LinkedIn profile link here)
+
+GitHub: https://github.com/Priyanka-h-2003
+
+---
+
+⭐ Thanks for visiting my profile!
